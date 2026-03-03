@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_borsch_ingredients">
+        <item>500 г говядины (лопатка или грудинка)</item>
+        <item>3 средних свёклы</item>
+        <item>3 средних картофелины, кубиками</item>
+        <item>1 морковь, натёртая</item>
+        <item>1 луковица, нарезанная</item>
+        <item>¼ кочана капусты, нашинкованная</item>
+        <item>2 ст. л. томатной пасты</item>
+        <item>2 ст. л. уксуса</item>
+        <item>Соль, перец, лавровый лист</item>
+        <item>Сметана и укроп для подачи</item>
+    </string-array>
+    <string-array name="recipe_borsch_steps">
+        <item>Положите говядину в кастрюлю с 2,5 л воды. Доведите до кипения, снимите пену. Варите 60 минут.</item>
+        <item>Запеките свёклу в духовке при 200°C 40 минут, очистите и натрите.</item>
+        <item>Обжарьте лук и морковь на масле 5 минут. Добавьте томатную пасту и уксус.</item>
+        <item>Выньте мясо, разберите на волокна. Добавьте картофель в бульон, варите 15 минут.</item>
+        <item>Добавьте капусту и варите ещё 10 минут.</item>
+        <item>Добавьте поджарку и свёклу. Верните мясо. Посолите, поперчите.</item>
+        <item>Варите 10 минут. Подавайте горячим со сметаной и укропом.</item>
+    </string-array>
+    <string-array name="recipe_granola_ingredients">
+        <item>2 чашки овсяных хлопьев</item>
+        <item>½ чашки орехов (миндаль, грецкие)</item>
+        <item>3 ст. л. мёда</item>
+        <item>2 ст. л. оливкового масла</item>
+        <item>1 ч. л. ванильного экстракта</item>
+        <item>½ ч. л. корицы</item>
+        <item>Греческий йогурт и свежие ягоды для подачи</item>
+    </string-array>
+    <string-array name="recipe_granola_steps">
+        <item>Разогрейте духовку до 160°C.</item>
+        <item>Смешайте овсяные хлопья, орехи и корицу в миске.</item>
+        <item>Смешайте мёд, масло и ваниль. Влейте в смесь с хлопьями.</item>
+        <item>Разложите на противне и запекайте 20-25 минут, перемешав в середине.</item>
+        <item>Дайте полностью остыть — гранола станет хрустящей по мере остывания.</item>
+        <item>Подавайте с йогуртом и свежими ягодами.</item>
+    </string-array>
+    <string-array name="recipe_omelette_ingredients">
+        <item>3 крупных яйца</item>
+        <item>2 ст. л. сливочного масла</item>
+        <item>2 ст. л. свежей зелени (лук-резанец, петрушка)</item>
+        <item>Соль и перец по вкусу</item>
+        <item>2 ст. л. молока (по желанию)</item>
+    </string-array>
+    <string-array name="recipe_omelette_steps">
+        <item>Разбейте яйца в миску, добавьте соль, перец и молоко. Взбейте.</item>
+        <item>Растопите масло на сковороде на среднем-слабом огне.</item>
+        <item>Вылейте яичную смесь и аккуратно помешивайте лопаткой.</item>
+        <item>Когда края начнут схватываться, прекратите мешать.</item>
+        <item>Посыпьте зеленью, сложите омлет пополам и переложите на тарелку.</item>
+    </string-array>
+    <string-array name="recipe_pancakes_ingredients">
+        <item>500 мл молока</item>
+        <item>2 яйца</item>
+        <item>130 г муки</item>
+        <item>2 ст. л. сахара</item>
+        <item>1 щепотка соли</item>
+        <item>2 ст. л. растительного масла</item>
+        <item>Сливочное масло для жарки</item>
+    </string-array>
+    <string-array name="recipe_pancakes_steps">
+        <item>Взбейте яйца с сахаром и солью в большой миске.</item>
+        <item>Постепенно добавляйте молоко, непрерывно помешивая.</item>
+        <item>Просейте муку в смесь и перемешайте до гладкости. Добавьте масло.</item>
+        <item>Дайте тесту постоять 15 минут.</item>
+        <item>Разогрейте сковороду на среднем огне, смажьте маслом.</item>
+        <item>Налейте тонкий слой теста, наклоняя сковороду для равномерного распределения.</item>
+        <item>Жарьте 1-2 минуты с каждой стороны. Подавайте с джемом, мёдом или сметаной.</item>
+    </string-array>
+    <string-array name="recipe_pasta_ingredients">
+        <item>400 г спагетти</item>
+        <item>150 г гуанчале или панчетты, кубиками</item>
+        <item>4 желтка + 1 целое яйцо</item>
+        <item>80 г сыра Пекорино Романо, тёртого</item>
+        <item>Свежемолотый чёрный перец</item>
+        <item>Соль для варки пасты</item>
+    </string-array>
+    <string-array name="recipe_pasta_steps">
+        <item>Отварите спагетти в подсоленной воде до состояния аль денте. Сохраните 1 чашку воды от варки.</item>
+        <item>Обжарьте гуанчале на сухой сковороде до хрустящей корочки.</item>
+        <item>Взбейте желтки с целым яйцом, добавьте Пекорино и много чёрного перца.</item>
+        <item>Слейте пасту, добавьте к гуанчале (огонь выключен).</item>
+        <item>Влейте яичную смесь, быстро перемешайте. Добавляйте воду от пасты по немногу для кремовой консистенции.</item>
+        <item>Подавайте немедленно с Пекорино и перцем.</item>
+    </string-array>
+    <string-array name="recipe_pelmeni_ingredients">
+        <item>2 чашки муки</item>
+        <item>1 яйцо</item>
+        <item>½ чашки воды</item>
+        <item>300 г фарша из говядины</item>
+        <item>200 г фарша из свинины</item>
+        <item>1 луковица, натёртая</item>
+        <item>Соль, перец</item>
+        <item>Сметана для подачи</item>
+    </string-array>
+    <string-array name="recipe_pelmeni_steps">
+        <item>Смешайте муку, яйцо, воду и соль в крутое тесто. Вымешивайте 10 минут. Дайте отдохнуть 30 минут.</item>
+        <item>Смешайте оба вида фарша, тёртый лук, соль и перец для начинки.</item>
+        <item>Раскатайте тесто тонко и вырежьте кружки стаканом (6-7 см).</item>
+        <item>Положите чайную ложку начинки на каждый кружок. Сложите и хорошо защипните края.</item>
+        <item>Вскипятите большую кастрюлю подсоленной воды. Варите пельмени партиями.</item>
+        <item>Готовы через 3-4 минуты после всплытия на поверхность.</item>
+        <item>Подавайте со сметаной, маслом или горчицей.</item>
+    </string-array>
+    <string-array name="recipe_pizza_ingredients">
+        <item>260 г муки</item>
+        <item>1 ч. л. сухих дрожжей</item>
+        <item>¾ чашки тёплой воды</item>
+        <item>1 ч. л. соли, 1 ч. л. сахара</item>
+        <item>1 ст. л. оливкового масла</item>
+        <item>400 г измельчённых томатов</item>
+        <item>200 г свежей моцареллы</item>
+        <item>Листья свежего базилика</item>
+        <item>2 зубчика чеснока</item>
+    </string-array>
+    <string-array name="recipe_pizza_steps">
+        <item>Растворите дрожжи и сахар в тёплой воде, оставьте на 10 минут до появления пены.</item>
+        <item>Смешайте муку и соль, добавьте дрожжевую смесь и масло. Вымешивайте 10 минут.</item>
+        <item>Дайте тесту подойти в тёплом месте 1 час под крышкой.</item>
+        <item>Тушите томаты с чесноком, солью и базиликом 15 минут. Дайте остыть.</item>
+        <item>Разогрейте духовку до 250°C с камнем или противнем внутри.</item>
+        <item>Растяните тесто в круг 30 см. Распределите соус, разложите моцареллу.</item>
+        <item>Выпекайте 10-12 минут до обугленных краёв. Украсьте свежим базиликом.</item>
+    </string-array>
+    <string-array name="recipe_salmon_ingredients">
+        <item>2 филе лосося (по 180 г), с кожей</item>
+        <item>2 ст. л. сливочного масла</item>
+        <item>2 зубчика чеснока, измельчённых</item>
+        <item>Сок 1 лимона</item>
+        <item>Свежий тимьян и розмарин</item>
+        <item>Соль и перец</item>
+        <item>Оливковое масло</item>
+    </string-array>
+    <string-array name="recipe_salmon_steps">
+        <item>Обсушите лосось бумажными полотенцами. Посолите и поперчите с обеих сторон.</item>
+        <item>Нагрейте оливковое масло на сковороде на сильном огне.</item>
+        <item>Положите лосось кожей вниз. Слегка прижмите и готовьте 4-5 минут, не трогая.</item>
+        <item>Переверните и готовьте ещё 2 минуты.</item>
+        <item>Добавьте масло, чеснок и травы. Наклоните сковороду и поливайте лосось маслом.</item>
+        <item>Полейте лимонным соком. Подавайте с овощами или салатом.</item>
+    </string-array>
+    <string-array name="recipe_schnitzel_ingredients">
+        <item>2 телячьи отбивные (по 150 г)</item>
+        <item>½ чашки муки</item>
+        <item>2 яйца, взбитых</item>
+        <item>1 чашка панировочных сухарей</item>
+        <item>Масло или смалец для жарки</item>
+        <item>Соль и перец</item>
+        <item>Дольки лимона для подачи</item>
+    </string-array>
+    <string-array name="recipe_schnitzel_steps">
+        <item>Отбейте телятину между плёнкой до толщины 3-4 мм.</item>
+        <item>Посолите и поперчите.</item>
+        <item>Обваляйте в муке, обмакните в яйцо, затем в сухари. Слегка прижмите.</item>
+        <item>Нагрейте масло до 170°C в широкой сковороде. Слой масла — 1 см.</item>
+        <item>Жарьте шницель 2-3 минуты с каждой стороны, слегка встряхивая сковороду.</item>
+        <item>Обсушите на бумажном полотенце. Подавайте с лимоном и картофельным салатом.</item>
+    </string-array>
+    <string name="all">Все</string>
+    <string name="app_name">Кулинарный помощник</string>
+    <string name="app_subtitle">Откройте рецепты со всего мира</string>
+    <string name="back">Назад</string>
+    <string name="breakfast">Завтрак</string>
+    <string name="difficulty">Сложность</string>
+    <string name="dinner">Ужин</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="language">Язык</string>
+    <string name="lunch">Обед</string>
+    <string name="min">мин</string>
+    <string name="recipe_borsch_desc">Традиционный восточноевропейский свекольный суп — насыщенный и ароматный.</string>
+    <string name="recipe_borsch_name">Классический борщ</string>
+    <string name="recipe_granola_desc">Хрустящая домашняя гранола с овсом, орехами и мёдом, с йогуртом.</string>
+    <string name="recipe_granola_name">Гранола с мёдом</string>
+    <string name="recipe_image">Фото рецепта</string>
+    <string name="recipe_omelette_desc">Классический мягкий французский омлет с зеленью — готовится менее чем за 15 минут.</string>
+    <string name="recipe_omelette_name">Французский омлет</string>
+    <string name="recipe_pancakes_desc">Тонкие и нежные русские блины — идеальный завтрак с мёдом или вареньем.</string>
+    <string name="recipe_pancakes_name">Русские блины</string>
+    <string name="recipe_pasta_desc">Аутентичная итальянская паста со сливочным яичным соусом и сыром Пекорино.</string>
+    <string name="recipe_pasta_name">Паста Карбонара</string>
+    <string name="recipe_pelmeni_desc">Традиционные русские пельмени с мясной начинкой — настоящая еда для души.</string>
+    <string name="recipe_pelmeni_name">Сибирские пельмени</string>
+    <string name="recipe_pizza_desc">Неаполитанская пицца с домашним тестом, томатным соусом и свежей моцареллой.</string>
+    <string name="recipe_pizza_name">Пицца Маргарита</string>
+    <string name="recipe_salmon_desc">Лосось с хрустящей кожей, лимонным маслом и свежими травами в стиле ресторана.</string>
+    <string name="recipe_salmon_name">Жареный лосось</string>
+    <string name="recipe_schnitzel_desc">Классический австрийский шницель из телятины — хрустящий, золотистый и нежный.</string>
+    <string name="recipe_schnitzel_name">Венский шницель</string>
+    <string name="servings">порц.</string>
+    <string name="servings_label">Порции</string>
+    <string name="step">Шаг</string>
+    <string name="steps">Приготовление</string>
+    <string name="time">Время</string>
+</resources>

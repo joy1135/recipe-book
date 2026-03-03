@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_borsch_ingredients">
+        <item>500 g beef (chuck or brisket)</item>
+        <item>3 medium beets</item>
+        <item>3 medium potatoes, cubed</item>
+        <item>1 carrot, grated</item>
+        <item>1 onion, diced</item>
+        <item>¼ head cabbage, shredded</item>
+        <item>2 tbsp tomato paste</item>
+        <item>2 tbsp vinegar</item>
+        <item>Salt, pepper, bay leaves</item>
+        <item>Sour cream and dill to serve</item>
+    </string-array>
+    <string-array name="recipe_borsch_steps">
+        <item>Place beef in a pot with 2.5 L water. Bring to boil, skim foam. Cook 60 min.</item>
+        <item>Roast beets in oven at 200°C for 40 min, then peel and grate.</item>
+        <item>Sauté onion and carrot in oil for 5 min. Add tomato paste and vinegar.</item>
+        <item>Remove beef, shred it. Add potatoes to broth and cook 15 min.</item>
+        <item>Add cabbage and cook 10 more minutes.</item>
+        <item>Add sautéed vegetables and grated beets. Return beef. Season to taste.</item>
+        <item>Simmer 10 min. Serve hot with sour cream and fresh dill.</item>
+    </string-array>
+    <string-array name="recipe_granola_ingredients">
+        <item>2 cups rolled oats</item>
+        <item>½ cup mixed nuts (almonds, walnuts)</item>
+        <item>3 tbsp honey</item>
+        <item>2 tbsp olive oil</item>
+        <item>1 tsp vanilla extract</item>
+        <item>½ tsp cinnamon</item>
+        <item>Greek yogurt and fresh berries for serving</item>
+    </string-array>
+    <string-array name="recipe_granola_steps">
+        <item>Preheat oven to 160°C (325°F).</item>
+        <item>Mix oats, nuts, cinnamon in a bowl.</item>
+        <item>Whisk together honey, olive oil and vanilla. Pour over oat mixture.</item>
+        <item>Spread onto a baking sheet and bake for 20-25 minutes, stirring halfway.</item>
+        <item>Let cool completely — it will crisp up as it cools.</item>
+        <item>Serve over yogurt topped with fresh berries.</item>
+    </string-array>
+    <string-array name="recipe_omelette_ingredients">
+        <item>3 large eggs</item>
+        <item>2 tbsp butter</item>
+        <item>2 tbsp fresh herbs (chives, parsley)</item>
+        <item>Salt and pepper to taste</item>
+        <item>2 tbsp milk (optional)</item>
+    </string-array>
+    <string-array name="recipe_omelette_steps">
+        <item>Crack eggs into a bowl, add salt, pepper and milk. Whisk well.</item>
+        <item>Melt butter in a pan over medium-low heat.</item>
+        <item>Pour in egg mixture and stir gently with a spatula.</item>
+        <item>When edges start to set, stop stirring and let the center cook.</item>
+        <item>Sprinkle herbs, fold the omelette in half and slide onto a plate.</item>
+    </string-array>
+    <string-array name="recipe_pancakes_ingredients">
+        <item>2 cups (500 ml) milk</item>
+        <item>2 eggs</item>
+        <item>1 cup (130 g) flour</item>
+        <item>2 tbsp sugar</item>
+        <item>1 pinch salt</item>
+        <item>2 tbsp vegetable oil</item>
+        <item>Butter for frying</item>
+    </string-array>
+    <string-array name="recipe_pancakes_steps">
+        <item>Beat eggs with sugar and salt in a large bowl.</item>
+        <item>Gradually add milk while whisking continuously.</item>
+        <item>Sift flour into the mixture and stir until smooth. Add vegetable oil.</item>
+        <item>Let the batter rest for 15 minutes.</item>
+        <item>Heat a non-stick pan over medium heat and melt a little butter.</item>
+        <item>Pour a thin layer of batter and tilt the pan to spread evenly.</item>
+        <item>Cook each side for 1-2 minutes until golden. Serve with jam, honey or sour cream.</item>
+    </string-array>
+    <string-array name="recipe_pasta_ingredients">
+        <item>400 g spaghetti</item>
+        <item>150 g guanciale or pancetta, diced</item>
+        <item>4 egg yolks + 1 whole egg</item>
+        <item>80 g Pecorino Romano, grated</item>
+        <item>Freshly ground black pepper</item>
+        <item>Salt for pasta water</item>
+    </string-array>
+    <string-array name="recipe_pasta_steps">
+        <item>Cook spaghetti in salted boiling water until al dente. Reserve 1 cup pasta water.</item>
+        <item>Fry guanciale in a dry pan over medium heat until crispy.</item>
+        <item>Beat egg yolks with whole egg, add Pecorino and plenty of black pepper.</item>
+        <item>Drain pasta, add to pan with guanciale (heat off).</item>
+        <item>Pour egg mixture over pasta, toss quickly. Add pasta water little by little to create creamy sauce.</item>
+        <item>Serve immediately with extra Pecorino and pepper.</item>
+    </string-array>
+    <string-array name="recipe_pelmeni_ingredients">
+        <item>2 cups flour</item>
+        <item>1 egg</item>
+        <item>½ cup water</item>
+        <item>300 g ground beef</item>
+        <item>200 g ground pork</item>
+        <item>1 onion, grated</item>
+        <item>Salt, pepper</item>
+        <item>Sour cream to serve</item>
+    </string-array>
+    <string-array name="recipe_pelmeni_steps">
+        <item>Mix flour, egg, water and salt into a firm dough. Knead 10 min. Rest 30 min.</item>
+        <item>Combine ground meats, grated onion, salt and pepper for filling.</item>
+        <item>Roll dough thin and cut circles with a glass (6-7 cm).</item>
+        <item>Place a teaspoon of filling in centre of each circle. Fold and seal edges well.</item>
+        <item>Bring a large pot of salted water to boil. Cook pelmeni in batches.</item>
+        <item>They are ready 3-4 minutes after they float to the surface.</item>
+        <item>Serve with sour cream, butter or mustard.</item>
+    </string-array>
+    <string-array name="recipe_pizza_ingredients">
+        <item>2 cups (260 g) flour</item>
+        <item>1 tsp dry yeast</item>
+        <item>¾ cup warm water</item>
+        <item>1 tsp salt, 1 tsp sugar</item>
+        <item>1 tbsp olive oil</item>
+        <item>1 can (400 g) crushed tomatoes</item>
+        <item>200 g fresh mozzarella</item>
+        <item>Fresh basil leaves</item>
+        <item>2 cloves garlic</item>
+    </string-array>
+    <string-array name="recipe_pizza_steps">
+        <item>Dissolve yeast and sugar in warm water, let stand 10 min until foamy.</item>
+        <item>Mix flour and salt, add yeast mixture and olive oil. Knead 10 min until smooth.</item>
+        <item>Let dough rise in a warm place for 1 hour, covered.</item>
+        <item>Simmer crushed tomatoes with garlic, salt and basil for 15 min. Let cool.</item>
+        <item>Preheat oven to 250°C (480°F). Use highest setting with baking stone or sheet.</item>
+        <item>Stretch dough into a 30 cm circle. Spread sauce, add torn mozzarella.</item>
+        <item>Bake 10-12 minutes until crust is charred at edges. Top with fresh basil.</item>
+    </string-array>
+    <string-array name="recipe_salmon_ingredients">
+        <item>2 salmon fillets (180 g each), skin on</item>
+        <item>2 tbsp butter</item>
+        <item>2 cloves garlic, minced</item>
+        <item>Juice of 1 lemon</item>
+        <item>Fresh thyme and rosemary</item>
+        <item>Salt and pepper</item>
+        <item>Olive oil</item>
+    </string-array>
+    <string-array name="recipe_salmon_steps">
+        <item>Pat salmon dry with paper towels. Season both sides with salt and pepper.</item>
+        <item>Heat olive oil in a pan over high heat until shimmering.</item>
+        <item>Place salmon skin-side down. Press gently and cook 4-5 minutes without moving.</item>
+        <item>Flip and cook 2 more minutes.</item>
+        <item>Add butter, garlic and herbs. Tilt pan and baste salmon with melted butter.</item>
+        <item>Squeeze lemon over. Serve with roasted vegetables or salad.</item>
+    </string-array>
+    <string-array name="recipe_schnitzel_ingredients">
+        <item>2 veal cutlets (150 g each)</item>
+        <item>½ cup flour</item>
+        <item>2 eggs, beaten</item>
+        <item>1 cup breadcrumbs</item>
+        <item>Oil or lard for frying</item>
+        <item>Salt and pepper</item>
+        <item>Lemon wedges to serve</item>
+    </string-array>
+    <string-array name="recipe_schnitzel_steps">
+        <item>Pound veal cutlets between plastic wrap to 3-4 mm thickness.</item>
+        <item>Season with salt and pepper.</item>
+        <item>Coat in flour, dip in beaten eggs, then coat in breadcrumbs. Press gently.</item>
+        <item>Heat oil to 170°C in a wide pan. Oil should be 1 cm deep.</item>
+        <item>Fry schnitzel for 2-3 minutes per side, shaking pan gently for even browning.</item>
+        <item>Drain on paper towel. Serve immediately with lemon wedges and potato salad.</item>
+    </string-array>
+    <color name="background_light">#F5F5F5</color>
+    <color name="button_inactive">#EEEEEE</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="lang_btn_inactive">#CC5520</color>
+    <color name="primary_dark">#CC5520</color>
+    <color name="primary_orange">#FF6B35</color>
+    <color name="stat_background">#FFF3EE</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+    <string name="all">All</string>
+    <string name="app_name">Culinary Assistant</string>
+    <string name="app_subtitle">Discover recipes from around the world</string>
+    <string name="back">Back</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="dinner">Dinner</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="language">Language</string>
+    <string name="lunch">Lunch</string>
+    <string name="min">min</string>
+    <string name="recipe_borsch_desc">Traditional Eastern European beet soup, rich, hearty and deeply flavourful.</string>
+    <string name="recipe_borsch_name">Classic Borscht</string>
+    <string name="recipe_granola_desc">Crunchy homemade granola with oats, nuts and honey, served with yogurt.</string>
+    <string name="recipe_granola_name">Honey Granola Bowl</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="recipe_omelette_desc">A classic soft French omelette with herbs — ready in under 15 minutes.</string>
+    <string name="recipe_omelette_name">French Omelette</string>
+    <string name="recipe_pancakes_desc">Thin and delicate Russian crepes, perfect for breakfast with honey or jam.</string>
+    <string name="recipe_pancakes_name">Russian Pancakes (Blini)</string>
+    <string name="recipe_pasta_desc">Authentic Italian pasta with creamy egg sauce, guanciale and Pecorino cheese.</string>
+    <string name="recipe_pasta_name">Pasta Carbonara</string>
+    <string name="recipe_pelmeni_desc">Traditional Russian dumplings filled with mixed meat — the ultimate comfort food.</string>
+    <string name="recipe_pelmeni_name">Siberian Pelmeni</string>
+    <string name="recipe_pizza_desc">Neapolitan pizza with homemade dough, San Marzano tomato sauce and fresh mozzarella.</string>
+    <string name="recipe_pizza_name">Margherita Pizza</string>
+    <string name="recipe_salmon_desc">Restaurant-style salmon with crispy skin, lemon butter and fresh herbs.</string>
+    <string name="recipe_salmon_name">Pan-Seared Salmon</string>
+    <string name="recipe_schnitzel_desc">Classic Austrian veal schnitzel — crispy, golden and irresistibly tender.</string>
+    <string name="recipe_schnitzel_name">Wiener Schnitzel</string>
+    <string name="servings">srv.</string>
+    <string name="servings_label">Servings</string>
+    <string name="step">Step</string>
+    <string name="steps">Preparation</string>
+    <string name="time">Time</string>
+    <style name="Theme.CulinaryApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
