@@ -19,6 +19,8 @@
     <string name="recipe_image">Recipe image</string>
     <string name="back">Back</string>
     <string name="language">Language</string>
+    <string name="play_audio">▶ Play</string>
+    <string name="pause_audio">⏸ Pause</string>
 
     <!-- BREAKFAST RECIPES -->
     <!-- Pancakes -->

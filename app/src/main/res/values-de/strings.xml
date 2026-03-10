@@ -19,6 +19,8 @@
     <string name="recipe_image">Rezeptbild</string>
     <string name="back">Zurück</string>
     <string name="language">Sprache</string>
+    <string name="play_audio">▶ Reproduzieren</string>
+    <string name="pause_audio">⏸ Pause</string>
 
     <!-- FRÜHSTÜCK -->
     <!-- Pfannkuchen -->

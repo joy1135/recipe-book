@@ -2,6 +2,7 @@ package com.culinary.app.activities;
 
 import android.content.Context;
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -40,6 +41,11 @@ public class MainActivity extends AppCompatActivity implements RecipeAdapter.OnR
         setupFilterButtons();
         loadRecipes(currentFilter);
         updateActiveLanguageButton();
+        if (savedInstanceState == null && !getIntent().getBooleanExtra("language_changed", false)) {
+            MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.startup_sound);
+            mediaPlayer.start();
+            mediaPlayer.setOnCompletionListener(mp -> mp.release());
+        }
     }
 
     private void initViews() {
@@ -66,7 +72,10 @@ public class MainActivity extends AppCompatActivity implements RecipeAdapter.OnR
 
     private void changeLanguage(String lang) {
         LocaleHelper.saveLanguage(this, lang);
-        recreate();
+        Intent intent = getIntent();
+        intent.putExtra("language_changed", true);
+        finish();
+        startActivity(intent);
     }
 
     private void setupFilterButtons() {
@@ -157,5 +166,8 @@ public class MainActivity extends AppCompatActivity implements RecipeAdapter.OnR
         intent.putExtra("recipe_id", recipe.getId());
         intent.putExtra("recipe_category", recipe.getCategory());
         startActivity(intent);
+        MediaPlayer click = MediaPlayer.create(this, R.raw.click_sound);
+        click.start();
+        click.setOnCompletionListener(mp -> mp.release());
     }
 }

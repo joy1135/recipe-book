@@ -19,6 +19,8 @@
     <string name="recipe_image">Фото рецепта</string>
     <string name="back">Назад</string>
     <string name="language">Язык</string>
+    <string name="play_audio">▶ Воспроизвести</string>
+    <string name="pause_audio">⏸ Пауза</string>
 
     <!-- БЛЮДА НА ЗАВТРАК -->
     <!-- Блины -->
