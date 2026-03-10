@@ -9,4 +9,5 @@
     <color name="lang_btn_inactive">#CC5520</color>
     <color name="card_background">#FFFFFF</color>
     <color name="stat_background">#FFF3EE</color>
+    <color name="timer_warning">#E53935</color>
 </resources>

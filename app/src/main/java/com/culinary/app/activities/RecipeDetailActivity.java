@@ -16,12 +16,14 @@ import com.culinary.app.R;
 import com.culinary.app.models.Recipe;
 import com.culinary.app.utils.LocaleHelper;
 import com.culinary.app.utils.RecipeRepository;
+import com.culinary.app.views.TimerView;
+
 import java.util.List;
 
 public class RecipeDetailActivity extends AppCompatActivity {
 
     private MediaPlayer player;
-
+    private TimerView timer1, timer2, timer3;
     @Override
     protected void attachBaseContext(Context newBase) {
         super.attachBaseContext(LocaleHelper.onAttach(newBase));
@@ -147,6 +149,58 @@ public class RecipeDetailActivity extends AppCompatActivity {
             stepText.setTextColor(getResources().getColor(R.color.text_primary));
             llSteps.addView(stepText);
         }
+
+        LinearLayout llTimers = findViewById(R.id.ll_timers);
+        llTimers.removeAllViews();
+
+        if (recipe.getId() == 1) {
+            timer1 = new TimerView(this,
+                    getString(R.string.timer_frying),
+                    0, 90,
+                    R.raw.timer_sound_1,
+                    true);
+
+            timer2 = new TimerView(this,
+                    getString(R.string.timer_resting),
+                    15, 0,
+                    R.raw.timer_sound_2,
+                    true);
+
+            llTimers.addView(timer1);
+            llTimers.addView(timer2);
+
+        } else if (recipe.getId() == 4) {
+            timer1 = new TimerView(this,
+                    getString(R.string.timer_cooking_beef),
+                    60, 0,
+                    R.raw.timer_sound_1,
+                    false);
+
+            timer2 = new TimerView(this,
+                    getString(R.string.timer_borsch_vegetables),
+                    15, 0,
+                    R.raw.timer_sound_2,
+                    true);
+
+            llTimers.addView(timer1);
+            llTimers.addView(timer2);
+
+        } else if (recipe.getId() == 8) {
+            timer1 = new TimerView(this,
+                    getString(R.string.timer_dough_resting),
+                    30, 0,
+                    R.raw.timer_sound_1,
+                    true);
+
+            timer2 = new TimerView(this,
+                    getString(R.string.timer_cooking_pelmeni),
+                    0, 0,
+                    R.raw.timer_sound_2,
+                    true);
+
+            llTimers.addView(timer1);
+            llTimers.addView(timer2);
+        }
     }
 
     @Override
@@ -156,6 +210,9 @@ public class RecipeDetailActivity extends AppCompatActivity {
             player.release();
             player = null;
         }
+        if (timer1 != null) timer1.release();
+        if (timer2 != null) timer2.release();
+        if (timer3 != null) timer3.release();
     }
 
     @Override

@@ -21,6 +21,19 @@
     <string name="language">Sprache</string>
     <string name="play_audio">▶ Reproduzieren</string>
     <string name="pause_audio">⏸ Pause</string>
+    <string name="timers">Timer</string>
+    <string name="timer_start">▶ Start</string>
+    <string name="timer_pause">⏸ Pause</string>
+    <string name="timer_reset">↺ Zurücksetzen</string>
+    <string name="enter_minutes">Minuten</string>
+    <string name="set_time">Setzen</string>
+    <string name="timer_frying">Pfannkuchen braten</string>
+    <string name="timer_resting">Teigruhe</string>
+    <string name="timer_cooking_beef">Fleisch kochen</string>
+    <string name="invalid_input">Ungültige Zahl</string>
+    <string name="timer_borsch_vegetables">Gemüse anbraten</string>
+    <string name="timer_dough_resting">Teigruhe</string>
+    <string name="timer_cooking_pelmeni">Pelmeni kochen</string>
 
     <!-- FRÜHSTÜCK -->
     <!-- Pfannkuchen -->

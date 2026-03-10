@@ -21,7 +21,19 @@
     <string name="language">Language</string>
     <string name="play_audio">▶ Play</string>
     <string name="pause_audio">⏸ Pause</string>
-
+    <string name="timers">Timers</string>
+    <string name="timer_start">▶ Start</string>
+    <string name="timer_pause">⏸ Pause</string>
+    <string name="timer_reset">↺ Reset</string>
+    <string name="enter_minutes">Minutes</string>
+    <string name="set_time">Set</string>
+    <string name="timer_frying">Frying pancake</string>
+    <string name="timer_resting">Dough resting</string>
+    <string name="timer_cooking_beef">Cooking beef</string>
+    <string name="invalid_input">Invalid number</string>
+    <string name="timer_borsch_vegetables">Sautéing vegetables</string>
+    <string name="timer_dough_resting">Dough resting</string>
+    <string name="timer_cooking_pelmeni">Cooking pelmeni</string>
     <!-- BREAKFAST RECIPES -->
     <!-- Pancakes -->
     <string name="recipe_pancakes_name">Russian Pancakes (Blini)</string>

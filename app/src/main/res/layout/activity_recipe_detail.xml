@@ -114,6 +114,22 @@
                         android:layout_height="wrap_content"
                         android:orientation="vertical"/>
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/timers"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary"
+                        android:layout_marginBottom="10dp"/>
+
+                    <LinearLayout
+                        android:id="@+id/ll_timers"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginBottom="20dp"/>
+
                     <Button
                         android:id="@+id/btn_play_audio"
                         android:layout_width="wrap_content"

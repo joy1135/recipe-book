@@ -21,7 +21,19 @@
     <string name="language">Язык</string>
     <string name="play_audio">▶ Воспроизвести</string>
     <string name="pause_audio">⏸ Пауза</string>
-
+    <string name="timers">Таймеры</string>
+    <string name="timer_start">▶ Старт</string>
+    <string name="timer_pause">⏸ Пауза</string>
+    <string name="timer_reset">↺ Сброс</string>
+    <string name="enter_minutes">Минуты</string>
+    <string name="set_time">Задать</string>
+    <string name="timer_frying">Жарка блина</string>
+    <string name="timer_resting">Отдых теста</string>
+    <string name="timer_cooking_beef">Варка мяса</string>
+    <string name="invalid_input">Неверное число</string>
+    <string name="timer_borsch_vegetables">Пассировка овощей</string>
+    <string name="timer_dough_resting">Отдых теста</string>
+    <string name="timer_cooking_pelmeni">Варка пельменей</string>
     <!-- БЛЮДА НА ЗАВТРАК -->
     <!-- Блины -->
     <string name="recipe_pancakes_name">Русские блины</string>
